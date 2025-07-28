@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 test git..... est ce que ca vas marcher ????
 
 modification du fichier en cours.....
+=======
+test git..... est ce que ca vas marcher ????
+>>>>>>> 6fe379c421a65c738c43beaa14cd5c15d54651c4
